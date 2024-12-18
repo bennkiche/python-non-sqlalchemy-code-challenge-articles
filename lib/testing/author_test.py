@@ -6,6 +6,7 @@ from classes.many_to_many import Author
 
 
 class TestAuthor:
+    
     """Author in many_to_many.py"""
 
     def test_has_name(self):
